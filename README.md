@@ -1,4 +1,4 @@
-# redis-listener-graceful-shutdown
+# repro project for https://github.com/spring-projects/spring-data-redis/issues/2261
 
 To build and run the app
 
